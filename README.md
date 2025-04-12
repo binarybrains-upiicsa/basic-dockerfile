@@ -13,3 +13,4 @@ Requisitos
 ## Soluciones hechas por la comunidad
 |Usuario|Repositorio| Website | Figma|
 |-------|-----------|---------|------|
+|<a href="https://github.com/EGAMAGZ">EGAMAGZ</a>|<a href="https://github.com/EGAMAGZ/basic-dockerfile/tree/EGAMAGZ-patch-1">Repositorio</a>|N/A|N/A|
